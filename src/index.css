@@ -1,0 +1,28 @@
+
+  .data--container{
+    
+    /* border: 1px solid black; */
+    margin-block: 10px;
+    padding: 20px;
+
+  }
+  .displayApi{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  button{
+      padding: 10px 20px;
+      font-size: 1rem;
+      margin:10px;
+      background-color: green;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+  }
+  .btndiv{
+    display: block;
+    text-align: center;
+  }

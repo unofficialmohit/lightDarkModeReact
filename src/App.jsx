@@ -26,9 +26,6 @@ return(
 </div>
 <themeContext.Provider value={darkMode}>
 <DataDisplay/>
-{/* {<FormData/>} */}
-{/* <Contact/> */}
-{/* {<Context/>} */}
 </themeContext.Provider>
 
 
